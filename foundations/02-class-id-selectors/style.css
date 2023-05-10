@@ -1,0 +1,19 @@
+#id1 {
+  color: #0606c6;
+  font-size: 36px;
+}
+
+#id2 {
+  font-weight: 700;
+  background-color: #55db8d;
+  font-size: 24px;
+}
+
+.c1 {
+  background-color: #f083a7;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.c1.c2 {
+  font-size: 24px;
+}
