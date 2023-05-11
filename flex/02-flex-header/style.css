@@ -14,7 +14,7 @@
   background: white;
   padding: 4px 32px;
 }
-.left-links,
+/* .left-links,
 .right-links {
   display: flex;
   align-items: center;
@@ -23,7 +23,6 @@
   padding: 0;
   display: flex;
   justify-content: flex-start;
-  /* align-items: center; */
   gap: 10px;
 }
 
@@ -33,7 +32,7 @@
   justify-content: flex-end;
   align-items: center;
   gap: 10px;
-}
+} */
 
 ul {
   /* this removes the dots on the list items*/
@@ -46,4 +45,11 @@ a {
   padding: 8px;
   /* this removes the line under the links */
   text-decoration: none;
+}
+
+ul {
+  display: flex;
+  padding: 0;
+  margin: 0;
+  gap: 8px;
 }
